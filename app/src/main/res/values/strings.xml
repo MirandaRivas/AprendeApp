@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">AprendeApp</string>
+    <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
+
+    <string name="login_subtitle">Inicia sesión para seguir aprendiendo</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Únete y descubre recursos nuevos</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_password_confirm">Confirmar contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Crear cuenta</string>
+    <string name="link_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="link_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="label_rol">Selecciona tu rol</string>
+    <string name="rol_estudiante">Estudiante</string>
+    <string name="rol_docente">Docente</string>
+
+    <string name="error_campo_vacio">Este campo es obligatorio</string>
+    <string name="error_email_invalido">Correo electrónico no válido</string>
+    <string name="error_pass_no_coincide">Las contraseñas no coinciden</string>
+    <string name="error_credenciales">Correo o contraseña incorrectos</string>
+    <string name="error_email_existe">Ya existe una cuenta con ese correo</string>
+    <string name="error_conexion">Error de conexión. Revisa tu internet</string>
+    <string name="error_servidor">Error del servidor (código %1$d)</string>
+    <string name="registro_exitoso">Cuenta creada. Ya puedes iniciar sesión</string>
+    <string name="bienvenida_usuario">Hola, %1$s</string>
+
+    <string name="pass_req_titulo">La contraseña debe tener:</string>
+    <string name="pass_req_longitud">Mínimo 12 caracteres</string>
+    <string name="pass_req_mayuscula">Al menos una letra mayúscula</string>
+    <string name="pass_req_minuscula">Al menos una letra minúscula</string>
+    <string name="pass_req_numero">Al menos un número</string>
+    <string name="pass_req_especial" formatted="false">Al menos un carácter especial (!@#$%^&amp;*)</string>
+
+    <string name="main_titulo">Recursos de aprendizaje</string>
+    <string name="btn_logout">Salir</string>
+    <string name="btn_admin">Administrar</string>
+    <string name="admin_proximamente">Pantalla de administración: próxima parte</string>
+    <string name="hint_buscar">Buscar por ID, título o tipo</string>
+    <string name="chip_favoritos">Solo favoritos</string>
+    <string name="lista_vacia">No hay recursos para mostrar</string>
+    <string name="sin_calificaciones">Sin calificaciones</string>
+    <string name="rating_formato">⭐ %1$.1f (%2$d)</string>
+    <string name="error_abrir_enlace">No se pudo abrir el enlace</string>
+    <string name="sesion_cerrada">Sesión cerrada</string>
+    <string name="imagen_recurso">Imagen del recurso</string>
+    <string name="fav_agregado">Agregado a favoritos</string>
+    <string name="fav_quitado">Quitado de favoritos</string>
+
+
+    <string name="admin_titulo">Administrar recursos</string>
+    <string name="dlg_nuevo">Nuevo recurso</string>
+    <string name="dlg_editar">Editar recurso</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_tipo">Tipo (Libro, Video, Artículo, Tutorial)</string>
+    <string name="hint_enlace">Enlace (https://...)</string>
+    <string name="hint_imagen">URL de la imagen (https://...)</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="eliminar_titulo">Eliminar recurso</string>
+    <string name="eliminar_mensaje">¿Seguro que deseas eliminar este recurso?</string>
+    <string name="recurso_creado">Recurso creado</string>
+    <string name="recurso_actualizado">Recurso actualizado</string>
+    <string name="recurso_eliminado">Recurso eliminado</string>
+    <string name="error_url_invalida">URL no válida</string>
+
+    <string name="calificar_titulo">Calificar recurso</string>
+    <string name="calificar_gracias">¡Gracias por tu calificación!</string>
+    <string name="calificar_solo_estudiante">Solo los estudiantes pueden calificar</string>
+
+
+    <string-array name="tipos_filtro">
+        <item>Todos</item>
+        <item>Libro</item>
+        <item>Video</item>
+        <item>Artículo</item>
+        <item>Tutorial</item>
+    </string-array>
+
+    <string-array name="orden_opciones">
+        <item>Título (A-Z)</item>
+        <item>Tipo</item>
+        <item>Mejor calificados</item>
+    </string-array>
+</resources>
