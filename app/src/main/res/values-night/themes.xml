@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AprendeApp</string>
+    <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
+
+    <string name="login_subtitle">Inicia sesión para seguir aprendiendo</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Únete y descubre recursos nuevos</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_password_confirm">Confirmar contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Crear cuenta</string>
+    <string name="link_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="link_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="label_rol">Selecciona tu rol</string>
+    <string name="rol_estudiante">Estudiante</string>
+    <string name="rol_docente">Docente</string>
+
+    <string name="error_campo_vacio">Este campo es obligatorio</string>
+    <string name="error_email_invalido">Correo electrónico no válido</string>
+    <string name="error_pass_no_coincide">Las contraseñas no coinciden</string>
+    <string name="error_credenciales">Correo o contraseña incorrectos</string>
+    <string name="error_email_existe">Ya existe una cuenta con ese correo</string>
+    <string name="error_conexion">Error de conexión. Revisa tu internet</string>
+    <string name="error_servidor">Error del servidor (código %1$d)</string>
+    <string name="registro_exitoso">Cuenta creada. Ya puedes iniciar sesión</string>
+    <string name="bienvenida_usuario">Hola, %1$s</string>
+
+    <string name="pass_req_titulo">La contraseña debe tener:</string>
+    <string name="pass_req_longitud">Mínimo 12 caracteres</string>
+    <string name="pass_req_mayuscula">Al menos una letra mayúscula</string>
+    <string name="pass_req_minuscula">Al menos una letra minúscula</string>
+    <string name="pass_req_numero">Al menos un número</string>
+    <string name="pass_req_especial" formatted="false">Al menos un carácter especial (!@#$%^&amp;*)</string>
+</resources>
