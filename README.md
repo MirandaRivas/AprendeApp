@@ -5,7 +5,7 @@ Aplicación Android en Kotlin para gestionar recursos de aprendizaje (libros, vi
 **Autor:** Gladis del Carmen Rivas Miranda :rm191684
 
 ## Video de defensa
-[Ver video demostrativo](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
+[Ver video demostrativo](https://drive.google.com/file/d/1ybXOwDOEsnFusTCB0AtexpzoJ57omPzY/view?usp=sharing)
 ## Funcionalidades
 - Registro con validación segura de contraseña (mín. 12 caracteres, mayúscula, minúscula, número y carácter especial).
 - Login y logout con sesión persistente. Contraseña cifrada con SHA-256.
@@ -35,5 +35,3 @@ MockAPI.io con los recursos `recursos` y `usuario`.
 2. Ajustar `BASE_URL` en `util/Constants.kt` con la URL de MockAPI.
 3. Ejecutar en un emulador o dispositivo (Android 8.0+).
 
-## Uso de IA
-Se usó IA como apoyo al aprendizaje; el autor comprende y puede explicar el código.
